@@ -12,7 +12,7 @@
 
 Environment Setup
 1. Clone the repository:
-git clone https://github.com/OnkarShelke77/TaskProject.git
+git clone
 cd TaskProject
 
 2.Install PHP dependencies:
